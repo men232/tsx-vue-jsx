@@ -1,0 +1,17 @@
+dist
+.DS_Store
+node_modules
+coverage
+temp
+**/.vitepress/cache/
+explorations
+docs/reference
+TODOs.md
+*.log
+.idea
+.eslintcache
+dts-build/packages
+*.tsbuildinfo
+*.tgz
+
+*storybook.log
